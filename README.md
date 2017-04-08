@@ -1,4 +1,4 @@
-Amazon Cognito + Ionic Mobile App
+# Amazon Cognito + Ionic Mobile App
 
 
 References
